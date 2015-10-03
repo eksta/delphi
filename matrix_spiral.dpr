@@ -1,7 +1,7 @@
 program matrix_spiral;
 
 {$APPTYPE CONSOLE}
-{Заполение матрицы по спирали
+{Р—Р°РїРѕР»РµРЅРёРµ РјР°С‚СЂРёС†С‹ РїРѕ СЃРїРёСЂР°Р»Рё
 1..n*n}
 uses
   SysUtils;

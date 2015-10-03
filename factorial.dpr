@@ -1,7 +1,7 @@
 program factorial;
 
 {$APPTYPE CONSOLE}
-{Вычисление факторила n!}
+{Р’С‹С‡РёСЃР»РµРЅРёРµ С„Р°РєС‚РѕСЂРёР»Р° n!}
 uses
   SysUtils;
 
